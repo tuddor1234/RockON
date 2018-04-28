@@ -1,0 +1,126 @@
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe.config
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.pdb
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Properties.Resources.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.exe
+D:\Visual Studio Projects\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.pdb
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe.config
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.pdb
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Properties.Resources.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.exe
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.pdb
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\af\Enciclopedie.resources.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.af.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\af\Enciclopedie.resources.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Artists.accdb
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form2.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.ResolveComReference.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Artists.accdb
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe.config
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.pdb
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\af\Enciclopedie.resources.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Interop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csprojResolveAssemblyReference.cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Interop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.ResolveComReference.cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form2.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Properties.Resources.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.af.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.GenerateResource.Cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.CoreCompileInputs.cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\af\Enciclopedie.resources.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.exe
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.pdb
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Artists.accdb
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe.config
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.pdb
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\af\Enciclopedie.resources.dll
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Interop.WMPLib.dll
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.WMPLib.dll
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csprojResolveAssemblyReference.cache
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Interop.WMPLib.dll
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.WMPLib.dll
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.ResolveComReference.cache
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.resources
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form2.resources
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Properties.Resources.resources
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.af.resources
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.GenerateResource.Cache
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.CoreCompileInputs.cache
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\af\Enciclopedie.resources.dll
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.exe
+K:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.pdb
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Artists.accdb
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe.config
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.pdb
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\af\Enciclopedie.resources.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Interop.WMPLib.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.WMPLib.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csprojResolveAssemblyReference.cache
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Interop.WMPLib.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.WMPLib.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.ResolveComReference.cache
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.resources
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form2.resources
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Properties.Resources.resources
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.af.resources
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.GenerateResource.Cache
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.CoreCompileInputs.cache
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\af\Enciclopedie.resources.dll
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.exe
+D:\_\proiecte_12A_C#_2017_1\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.pdb
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Artists.accdb
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe.config
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.exe
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Enciclopedie.pdb
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\af\Enciclopedie.resources.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\Interop.WMPLib.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csprojResolveAssemblyReference.cache
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Interop.WMPLib.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.ResolveComReference.cache
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.resources
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form2.resources
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Properties.Resources.resources
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.Form1.af.resources
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.GenerateResource.cache
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.csproj.CoreCompileInputs.cache
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\af\Enciclopedie.resources.dll
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.exe
+D:\Projects\Proiect\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Debug\Enciclopedie.pdb

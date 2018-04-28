@@ -1,0 +1,48 @@
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\Artists.accdb
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\Enciclopedie.exe.config
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\Enciclopedie.exe
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\Enciclopedie.pdb
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\af\Enciclopedie.resources.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\Interop.ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\Interop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\bin\Release\AxInterop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Interop.ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Interop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\AxInterop.WMPLib.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csproj.ResolveComReference.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Form1.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Form2.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Properties.Resources.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Form1.af.resources
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\af\Enciclopedie.resources.dll
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.exe
+D:\Visual Studio Projects\Enciclopedia\Enciclopedia\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.pdb
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\Artists.accdb
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\Enciclopedie.exe.config
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\Enciclopedie.exe
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\Enciclopedie.pdb
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\af\Enciclopedie.resources.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\Interop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\Interop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\bin\Release\AxInterop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csprojResolveAssemblyReference.cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Interop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Interop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\AxInterop.WMPLib.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csproj.ResolveComReference.cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Form1.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Form2.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Properties.Resources.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.Form1.af.resources
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csproj.GenerateResource.Cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.csproj.CoreCompileInputs.cache
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\af\Enciclopedie.resources.dll
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.exe
+F:\Enciclopedia - Tudor Turdasan\Enciclopedie\Enciclopedie\obj\Release\Enciclopedie.pdb
